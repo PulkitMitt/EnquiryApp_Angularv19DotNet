@@ -342,3 +342,4 @@ C:\angular-tut\EnquiryProject_Angular_DotNetCore\Enquiry-project\Enquiry.API\obj
 C:\angular-tut\EnquiryProject_Angular_DotNetCore\Enquiry-project\Enquiry.API\obj\Debug\net8.0\Enquiry.API.pdb
 C:\angular-tut\EnquiryProject_Angular_DotNetCore\Enquiry-project\Enquiry.API\obj\Debug\net8.0\Enquiry.API.genruntimeconfig.cache
 C:\angular-tut\EnquiryProject_Angular_DotNetCore\Enquiry-project\Enquiry.API\obj\Debug\net8.0\ref\Enquiry.API.dll
+C:\angular-tut\EnquiryProject_Angular_DotNetCore\Enquiry-project\Enquiry.API\obj\Debug\net8.0\Enquiry.API.sourcelink.json
