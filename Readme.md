@@ -25,7 +25,7 @@ Welcome to the **Enquiry Management System**! This full-stack web application is
 
 2. **View Enquiries**:  
    All your enquiries are displayed in **clean, organized cards**.  
-   ![View Icon](https://img.icons8.com/ios/50/000000/view.png)
+   ![View Icon](https://img.icons8.com/ios/50/000000/visible.png)
 
 3. **Edit an Enquiry**:  
    Easily **modify** existing enquiries with the update option.  
